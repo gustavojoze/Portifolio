@@ -28,5 +28,8 @@ Entre no link: https://portifolio-one-sigma-31.vercel.app/
 <h6>
   O programa não está preparado para algumas telas, futuramente terá atualizações. 
    </h6>
+   <h6>
+  Alguns projetos ainda não foram completados. 
+   </h6>
 
 
